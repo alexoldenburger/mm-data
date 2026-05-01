@@ -505,6 +505,7 @@ exact "Elemental Battle Armor (Fire) [MicroPL](Sqd5)" "battle armor/Elemental_5-
 exact "Elemental Battle Armor (Fire) [AP Gauss](Sqd6)" "battle armor/Elemental_6-CO.png"
 exact "Elemental Battle Armor (Fire) [Flamer](Sqd6)" "battle armor/Elemental_6-CO-FL.png"
 exact "Elemental Battle Armor (Fire) [MicroPL](Sqd6)" "battle armor/Elemental_6-CO-LA.png"
+exact "Elemental Battle Armor (Headhunter)(Sqd3)" "battle armor/Elemental_3-CO.png"
 exact "Elemental Battle Armor (Headhunter)(Sqd4)" "battle armor/Elemental_4-CO.png"
 exact "Elemental Battle Armor (Headhunter)(Sqd5)" "battle armor/Elemental_5-CO.png"
 exact "Elemental Battle Armor (Headhunter)(Sqd6)" "battle armor/Elemental_6-CO.png"
