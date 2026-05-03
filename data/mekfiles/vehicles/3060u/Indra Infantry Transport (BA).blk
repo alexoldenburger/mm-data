@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-#Saved from version 0.50.12 on 2026-02-26
+#Saved from version 0.51.00-nightly-2026-05-01 on 2026-05-02
 <UnitType>
 Tank
 </UnitType>
@@ -94,7 +94,6 @@ CLPlasmaCannonAmmo
 CLPlasmaCannonAmmo
 CLAPGaussRifle Ammo
 CLAPGaussRifle Ammo
-CLCASE
 </Body Equipment>
 
 <Front Equipment>
@@ -116,29 +115,15 @@ CLAPGaussRifle
 CLAPGaussRifle
 CLAPGaussRifle
 CLAPGaussRifle
-CLCASE
 </Turret Equipment>
-
-<slotless_equipment>
-ISBPodAmmo
-</slotless_equipment>
-
-<source>
-TR:3060
-</source>
-
-<tonnage>
-35.0
-</tonnage>
-
-# Fluff Date: 2026-03-08 18:30:06
-<overview>
-<p>The Indra Infantry Transport is a wheeled Clan combat vehicle developed in 2842 to fill the need for a protected personnel carrier capable of operating alongside frontline combat units in contested zones. Built on Clan homeworlds across multiple production facilities, it carries a smaller infantry complement than many dedicated transports but compensates with heavy armament and solid protection. The vehicle takes its name from the Brahmanic archer-god of lightning, a reference apt to its primary weapon, which is unusually formidable for a vehicle of its type. A persistent rivalry exists between Indra and Zorya light tank crews, rooted in the common perception that the infantry transport outclasses the dedicated combat vehicle across nearly every measurable category. The Indra has served numerous Clans across the Kerensky Cluster and, following Inner Sphere exposure during the Clan Invasion, found limited but consequential production outside the Homeworlds.</p>
-</overview>
 
 <capabilities>
 <p>The Indra's defining characteristic is its choice of primary armament. A fixed-forward Type 22 Extended Range PPC gives the vehicle hitting power well beyond what most infantry transports carry, but the weapon's mass demands nearly as much again in heat sinks, and sustained fire builds heat in the cargo compartment to dangerous levels. An attempt to install a dedicated cooling circuit around the infantry bay provided little practical relief.</p><p>Anti-personnel defense comes from four Series IX Machine Guns mounted in a micro-turret, providing 360-degree coverage against unarmored infantry. The turret weapons have demonstrated unexpected effectiveness against lightly armored vehicles as well, fouling tracks, disabling turret mechanisms, and damaging control surfaces at close range well beyond their nominal anti-armor rating.</p><p>Five tons of Compound K4 ferro-fibrous armor provide solid protection for the vehicle's size, with front and side coverage adequate against heavy direct-fire weapons. Rear and turret armor is lighter, capable of stopping small arms and most anti-vehicle weapons but not designed to absorb main battle fire from multiple angles. The Indra's tires incorporate a self-sealing HarJel polymer gel system, used on WarShips and Elemental battle suits, allowing punctured tires to repair and re-inflate against impacts up to 50mm caliber. Larger rounds defeat the system, but it provides meaningful protection in the small-arms environment most infantry transports operate in. The Fusion 155 power plant delivers a flanking speed of 86 kph, competitive with the mechanized formations it typically supports.</p>
 </capabilities>
+
+<overview>
+<p>The Indra Infantry Transport is a wheeled Clan combat vehicle developed in 2842 to fill the need for a protected personnel carrier capable of operating alongside frontline combat units in contested zones. Built on Clan homeworlds across multiple production facilities, it carries a smaller infantry complement than many dedicated transports but compensates with heavy armament and solid protection. The vehicle takes its name from the Brahmanic archer-god of lightning, a reference apt to its primary weapon, which is unusually formidable for a vehicle of its type. A persistent rivalry exists between Indra and Zorya light tank crews, rooted in the common perception that the infantry transport outclasses the dedicated combat vehicle across nearly every measurable category. The Indra has served numerous Clans across the Kerensky Cluster and, following Inner Sphere exposure during the Clan Invasion, found limited but consequential production outside the Homeworlds.</p>
+</overview>
 
 <deployment>
 <p>The (BA) variant was developed in 3069 to address the specialized demands of anti-insurgency and urban pacification operations, particularly in the aftermath of the Hell's Horses invasion of former Lyran worlds. This configuration retains the standard chassis but modifies the infantry bay and loadout to better accommodate battle armor operations and close-range anti-infantry engagements. Production is limited to the Quikscell Company facility on Pandora. The vehicle is issued primarily to Clan Wolf forces operating in occupation zones where anti-insurgency capability takes priority over conventional armored transport. The Indra's association with the Turtle Bay massacre creates a persistent public relations burden for units equipped with this variant, one that Wolf commanders have had limited success in addressing through rebranding or operational distinction.</p>
@@ -171,4 +156,13 @@ ARMOR:Compound K4 Ferro-Fibrous
 COMMUNICATIONS:Consolidated Type 2I
 TARGETING:Series VI KITT
 </systemModels>
+
+<source>
+TR:3060
+</source>
+
+<tonnage>
+35.0
+</tonnage>
+
 

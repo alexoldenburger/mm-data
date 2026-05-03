@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-#Saved from version 0.50.12 on 2026-02-26
+#Saved from version 0.51.00-nightly-2026-05-01 on 2026-05-02
 <UnitType>
 Tank
 </UnitType>
@@ -108,25 +108,15 @@ CLCASE
 CLATM9
 CLAPGaussRifle
 CLAPGaussRifle
-CLCASE
 </Turret Equipment>
-
-<source>
-TR:3060
-</source>
-
-<tonnage>
-35.0
-</tonnage>
-
-# Fluff Date: 2026-03-11 21:02:11
-<overview>
-<p>The Svantovit Infantry Fighting Vehicle emerged during the Succession Wars era as a purpose-built transport for second-line Clan garrison forces. Originally conceived to carry conventional infantry platoons, the design was substantially reworked in 2870 to serve the more demanding requirements of Elemental Point transportation, recognizing that non-OmniMech units lacked the handholds necessary for battle armor to ride into combat. Manufactured across numerous Clan Homeworld facilities under no single producing entity, the Svantovit became a ubiquitous fixture of Clan second-line and garrison operations across virtually every Clan. Its exceptional hover speed made it well-suited to repositioning infantry assets rapidly across diverse terrain, though the vehicle's light armor demanded careful tactical employment. Few designs so thoroughly defined the logistics of non-OmniMech Elemental delivery in the era before more capable carriers became widely available.</p>
-</overview>
 
 <capabilities>
 <p>The 'Masada' replaces the standard fusion engine with an XL unit, pushing the vehicle's flanking speed to 183 kph while freeing weight for a significantly heavier weapons suite. The five-ton infantry compartment and three tons of Compound Alpha ferro-fibrous armor are retained from the standard Svantovit, preserving the variant's core Elemental transport function. The rear hatch deployment limitation and the associated halt-before-deployment operating procedure remain unchanged.</p><p>The turret armament is substantially upgraded. A single ATM-9 launcher fed by three tons of ammunition replaces the Streak SRM launchers, giving the 'Masada' multi-range engagement capability at the cost of the standard model's point-defense focus. A pair of anti-personnel Gauss rifles supplementing the ATM system provide effective suppression against infantry targets, though their effectiveness against armored opponents is limited. The combination makes the 'Masada' a more capable fire support vehicle than the standard Svantovit, but the lighter anti-infantry weapons and heavier reliance on the ATM system require skilled fire control to employ effectively. As with all ATM-equipped vehicles, ammunition selection determines the engagement envelope, and logistics support for multiple ATM munition types is an ongoing operational concern.</p>
 </capabilities>
+
+<overview>
+<p>The Svantovit Infantry Fighting Vehicle emerged during the Succession Wars era as a purpose-built transport for second-line Clan garrison forces. Originally conceived to carry conventional infantry platoons, the design was substantially reworked in 2870 to serve the more demanding requirements of Elemental Point transportation, recognizing that non-OmniMech units lacked the handholds necessary for battle armor to ride into combat. Manufactured across numerous Clan Homeworld facilities under no single producing entity, the Svantovit became a ubiquitous fixture of Clan second-line and garrison operations across virtually every Clan. Its exceptional hover speed made it well-suited to repositioning infantry assets rapidly across diverse terrain, though the vehicle's light armor demanded careful tactical employment. Few designs so thoroughly defined the logistics of non-OmniMech Elemental delivery in the era before more capable carriers became widely available.</p>
+</overview>
 
 <deployment>
 <p>The 'Masada' entered service with Clan Hell's Horse and Clan Snow Leopard forces primarily operating in the Homeworlds during the Jihad era. Production at Csesztreg supplied Hell's Horse touman units, while the Niles facility provided vehicles to Snow Leopard forces during the same period. The variant's combination of improved speed and heavier weapons made it a preferred Elemental transport when available, though limited production meant distribution remained concentrated among Homeworld Clan forces rather than spreading broadly to Inner Sphere theaters.</p>
@@ -159,4 +149,13 @@ ARMOR:Compound Alpha Ferro-Fibrous
 COMMUNICATIONS:Type 2I
 TARGETING:Series II GPS
 </systemModels>
+
+<source>
+TR:3060
+</source>
+
+<tonnage>
+35.0
+</tonnage>
+
 

@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-#Saved from version 0.50.12 on 2026-02-26
+#Saved from version 0.51.00-nightly-2026-05-01 on 2026-05-02
 <UnitType>
 Tank
 </UnitType>
@@ -112,25 +112,15 @@ Hyper-Assault Gauss Rifle/40 Ammo
 
 <Turret Equipment>
 CLHAG40
-CLCASE
 </Turret Equipment>
-
-<source>
-TR:3145:C
-</source>
-
-<tonnage>
-55.0
-</tonnage>
-
-# Fluff Date: 2026-03-01 12:28:32
-<overview>
-<p>Clan Wolf developed the Aesir medium anti-aircraft vehicle in the mid 3090s to address a growing need for dedicated air defense assets across their Inner Sphere occupation zone. Designed to bolster second-line garrison forces against airborne raiding threats, the Aesir serves as a slow but dependable mobile gun emplacement, typically deployed in full Stars to protect critical fixed installations. With the vehicle entering production at both Gienah Automotive and the W-7 Facilities on Weingarten, Clan Wolf ensured sufficient volume to distribute the platform across their garrison clusters. The design's straightforward construction and ammunition efficiency make it well suited to the defensive posture demanded of occupation zone units, where engagements are more likely to involve deterring fast-moving attackers than pursuing them.</p>
-</overview>
 
 <capabilities>
 <p>Too slow to participate in offensive operations or respond to rapidly developing threats, the Aesir instead excels as a static or semi-mobile air defense platform. A quartet of turret-mounted Type Sierra LB 2-X Autocannons provides long-range flak coverage capable of saturating a wide portion of airspace, with cluster munitions offering particular effectiveness against fast-moving aerospace targets. Two tons of ammunition supply adequate endurance for extended engagements without requiring frequent resupply.</p><p>Protection is substantial for a vehicle of its weight class, with nine and a half tons of Forging OTR20d ferro-fibrous armor supplemented by CASE to contain ammunition explosions and an Armored Motive System to protect the wheeled drive train from crippling mobility kills. The Omni 145 fusion engine provides only modest speed at fifty-four kilometers per hour, reinforcing the Aesir's role as a positional defender rather than a mobile combatant. The TRTTS Mark V AirTracker targeting and tracking system, though aging by current standards, remains effective at acquiring and tracking airborne contacts ranging from VTOLs to DropShips. A Build 1685 Tacticom communications suite rounds out the electronics package.</p>
 </capabilities>
+
+<overview>
+<p>Clan Wolf developed the Aesir medium anti-aircraft vehicle in the mid 3090s to address a growing need for dedicated air defense assets across their Inner Sphere occupation zone. Designed to bolster second-line garrison forces against airborne raiding threats, the Aesir serves as a slow but dependable mobile gun emplacement, typically deployed in full Stars to protect critical fixed installations. With the vehicle entering production at both Gienah Automotive and the W-7 Facilities on Weingarten, Clan Wolf ensured sufficient volume to distribute the platform across their garrison clusters. The design's straightforward construction and ammunition efficiency make it well suited to the defensive posture demanded of occupation zone units, where engagements are more likely to involve deterring fast-moving attackers than pursuing them.</p>
+</overview>
 
 <deployment>
 <p>The HAG variant was developed by Clan Hell's Horses following their absorption of Weingarten and the W-7 Facilities that had previously manufactured the base model under Clan Wolf ownership. Replacing the four LB 2-X Autocannons with a single HAG/40, this configuration trades the saturating flak coverage of the original for concentrated firepower better suited to operations in smaller detachments or individual vehicle deployments. Six tons of ammunition feed the larger weapon, but the increased consumption rate makes the HAG variant less suited to the extended engagements for which the base model was designed.</p>
@@ -163,4 +153,13 @@ ARMOR:OTR20d
 COMMUNICATIONS:Build 1685
 TARGETING:Mark V AirTracker
 </systemModels>
+
+<source>
+TR:3145:C
+</source>
+
+<tonnage>
+55.0
+</tonnage>
+
 
