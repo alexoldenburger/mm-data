@@ -23,7 +23,8 @@ mul id:7720
 Config:Quad
 techbase:Clan
 era:3138
-source:Shrap03,ShrapRS
+source:Shrap03
+published:ShrapRS
 rules level:2
 role:Juggernaut
 

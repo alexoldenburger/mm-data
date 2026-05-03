@@ -23,8 +23,8 @@ mul id:7694
 Config:Biped
 techbase:Clan
 era:3133
-source:RG33,Shrap02,ShrapRS
-published:RG33
+source:RG33,Shrap02
+published:RG33,ShrapRS
 rules level:3
 role:Skirmisher
 

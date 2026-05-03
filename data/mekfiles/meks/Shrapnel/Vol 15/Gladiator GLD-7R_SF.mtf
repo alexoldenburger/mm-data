@@ -23,7 +23,8 @@ mul id:9540
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3135
-source:Shrap15,ShrapRS
+source:Shrap15
+published:ShrapRS
 rules level:3
 role:Skirmisher
 

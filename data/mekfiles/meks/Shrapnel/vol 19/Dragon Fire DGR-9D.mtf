@@ -23,7 +23,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3142
 source:Shrap19
-published:RSFP:BlackRemnant
+published:RSFP:BlackRemnant,ShrapRS
 rules level:2
 role:Brawler
 

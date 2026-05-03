@@ -23,7 +23,8 @@ mul id:9502
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3078
-source:Shrap12,ShrapRS
+source:Shrap12
+published:ShrapRS
 rules level:2
 role:Skirmisher
 

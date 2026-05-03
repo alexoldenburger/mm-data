@@ -23,7 +23,8 @@ mul id:9548
 Config:Biped
 techbase:Inner Sphere
 era:3074
-source:Shrap15,ShrapRS
+source:Shrap15
+published:ShrapRS
 rules level:3
 role:Missile Boat
 

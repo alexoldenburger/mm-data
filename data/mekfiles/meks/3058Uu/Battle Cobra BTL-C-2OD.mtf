@@ -23,7 +23,8 @@ mul id:267
 Config:Biped OmniMek
 techbase:Inner Sphere
 era:3069
-source:TR:3058U,Shrap11,ShrapRS
+source:TR:3058U,Shrap11
+published:ShrapRS
 rules level:2
 role:Sniper
 

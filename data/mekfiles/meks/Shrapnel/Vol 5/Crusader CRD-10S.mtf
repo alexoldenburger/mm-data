@@ -23,7 +23,8 @@ mul id:8234
 Config:Biped
 techbase:Clan
 era:3147
-source:Shrap05,ShrapRS
+source:Shrap05
+published:ShrapRS
 rules level:2
 role:Missile Boat
 

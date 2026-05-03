@@ -23,7 +23,7 @@ Config:Biped
 techbase:Inner Sphere
 era:2750
 source:
-published:RSFP:SLDF
+published:RSFP:SLDF,ShrapRS
 rules level:2
 role:Brawler
 

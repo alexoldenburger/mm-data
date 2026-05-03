@@ -131,8 +131,12 @@ ISTAG:OMNI
 
 
 <source>
-Shrap06,Shrap05,ShrapRS
+Shrap06,Shrap05
 </source>
+
+<published>
+ShrapRS
+</published>
 
 <tonnage>
 50.0

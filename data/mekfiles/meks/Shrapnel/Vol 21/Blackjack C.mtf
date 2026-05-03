@@ -24,7 +24,7 @@ Config:Biped
 techbase:Clan
 era:3089
 source:TR:CI
-published:RSFP:WD
+published:RSFP:WD,ShrapRS
 rules level:2
 role:Sniper
 
