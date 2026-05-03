@@ -24,7 +24,7 @@ Config:Quad
 techbase:Inner Sphere
 era:2570
 source:TR:3039,RS:3039u
-published:RS:3039u
+published:RS:3039u,RS:Gothic,RSFP:MERCS
 rules level:1
 role:Skirmisher
 

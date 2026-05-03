@@ -25,7 +25,7 @@ Config:Biped OmniMek
 techbase:Clan
 era:2945
 source:TR:3050,TR:CI,RSFP:Wave 1
-published:RSFP:Wave 1
+published:RSFP:Wave 1,RSFP:WD,RS:AS
 rules level:2
 role:Brawler
 

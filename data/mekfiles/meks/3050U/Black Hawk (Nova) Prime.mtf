@@ -25,7 +25,7 @@ Config:Biped OmniMek
 techbase:Clan
 era:2870
 source:TR:3050,TR:CI,RSFP:Wave 1
-published:RSFP:Wave 1
+published:RSFP:Wave 1,RS:AS
 rules level:2
 role:Skirmisher
 

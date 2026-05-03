@@ -24,7 +24,7 @@ Config:Biped
 techbase:Clan
 era:3063
 source:TR:3058U,TR:CI,RS:CI
-published:RS:CI
+published:RS:CI,RSFP:MERCS-CLAN
 rules level:2
 role:Skirmisher
 

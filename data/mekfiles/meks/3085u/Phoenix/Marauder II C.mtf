@@ -24,7 +24,7 @@ Config:Biped
 techbase:Clan
 era:3066
 source:TR:3085S,TR:CI,RS:3085u-PP
-published:RS:3085u-PP
+published:RS:3085u-PP,RSFP:Wave 2
 rules level:2
 role:Skirmisher
 

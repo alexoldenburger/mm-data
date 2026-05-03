@@ -24,7 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3144
 source:RG24
-published:RG24
+published:RG24,RSFP:BlackRemnant
 rules level:3
 role:Skirmisher
 

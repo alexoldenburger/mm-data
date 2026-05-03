@@ -24,7 +24,7 @@ Config:Biped
 techbase:Clan
 era:3077
 source:RS:3085u-ONN,TR:CI
-published:RS:3085u-ONN
+published:RS:3085u-ONN,RSFP:MERCS-CLAN
 rules level:2
 role:Missile Boat
 

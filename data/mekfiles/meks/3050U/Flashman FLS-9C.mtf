@@ -24,7 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:3061
 source:TR:3050,TR:3050U,RS:3050Uu-C
-published:RS:3050Uu-C
+published:RS:3050Uu-C,RSFP:BlackRemnant
 rules level:2
 role:Skirmisher
 

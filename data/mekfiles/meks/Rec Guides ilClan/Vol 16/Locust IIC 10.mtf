@@ -24,7 +24,7 @@ Config:Biped
 techbase:Clan
 era:3148
 source:RG16,RGv1
-published:RG16,RGv1
+published:RG16,RGv1,RSFP:MERCS-CLAN
 rules level:3
 role:Striker
 

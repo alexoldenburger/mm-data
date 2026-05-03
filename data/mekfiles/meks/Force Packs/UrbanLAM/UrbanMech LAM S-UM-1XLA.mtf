@@ -23,6 +23,7 @@ Config:LAM
 techbase:Mixed (IS Chassis)
 era:3080
 source:SB:UrbanLAM
+published:SB:UrbanLAM
 rules level:3
 
 

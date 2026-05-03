@@ -24,7 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:3090
 source:TR:3145:CC,TR:DA,RS:DA
-published:RS:DA
+published:RS:DA,RSFP:McCarron
 rules level:3
 role:Sniper
 

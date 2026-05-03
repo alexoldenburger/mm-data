@@ -25,7 +25,7 @@ Config:Biped OmniMek
 techbase:Clan
 era:3098
 source:RG08
-published:RG08
+published:RG08,RS:AS
 rules level:2
 role:Striker
 

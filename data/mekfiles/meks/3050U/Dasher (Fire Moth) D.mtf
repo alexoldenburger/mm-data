@@ -25,7 +25,7 @@ Config:Biped OmniMek
 techbase:Clan
 era:2874
 source:TR:3050,TR:CI,RS:CI
-published:RS:CI
+published:RS:CI,RS:AS
 rules level:2
 role:Striker
 

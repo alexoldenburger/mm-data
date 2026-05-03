@@ -25,7 +25,7 @@ Config:Biped
 techbase:Clan
 era:3051
 source:RG12,RGv1
-published:RG12,RGv1
+published:RG12,RGv1,RSFP:MERCS-CLAN
 rules level:2
 role:Skirmisher
 

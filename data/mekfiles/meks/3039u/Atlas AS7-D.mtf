@@ -24,7 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:2755
 source:TR:3039,TR:SW,RSFP:Wave 2
-published:RSFP:Wave 2
+published:RSFP:Wave 2,RS:Gothic,RSFP:HRR
 rules level:1
 role:Juggernaut
 

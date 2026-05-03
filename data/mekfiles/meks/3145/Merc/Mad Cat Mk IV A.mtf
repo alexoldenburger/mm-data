@@ -25,7 +25,7 @@ Config:Biped OmniMek
 techbase:Clan
 era:3136
 source:TR:3145:Merc,TR:DA,RS:DA
-published:RS:DA
+published:RS:DA,RSFP:SLDF3
 rules level:3
 role:Skirmisher
 

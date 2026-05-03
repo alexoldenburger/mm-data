@@ -24,7 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3119
 source:RG28
-published:RG28
+published:RG28,RSFP:MERCS
 rules level:3
 role:Striker
 

@@ -25,7 +25,7 @@ Config:Biped OmniMek
 techbase:Clan
 era:3051
 source:TR:3050,TR:CI,RS:3050Uu-C
-published:RS:3050Uu-C
+published:RS:3050Uu-C,RSFP:SLDF2
 rules level:2
 role:Juggernaut
 

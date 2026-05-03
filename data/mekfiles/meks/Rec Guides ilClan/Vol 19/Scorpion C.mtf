@@ -24,7 +24,7 @@ Config:Quad
 techbase:Mixed (IS Chassis)
 era:3150
 source:RG19,RGv1
-published:RG19,RGv1
+published:RG19,RGv1,RSFP:MERCS
 rules level:2
 role:Skirmisher
 

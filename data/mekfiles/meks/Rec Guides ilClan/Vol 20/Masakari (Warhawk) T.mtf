@@ -25,7 +25,7 @@ Config:Biped OmniMek
 techbase:Mixed (Clan Chassis)
 era:3142
 source:RG20
-published:RG20
+published:RG20,RS:AS
 rules level:2
 role:Brawler
 

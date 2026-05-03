@@ -24,7 +24,7 @@ Config:Biped
 techbase:Clan
 era:2997
 source:TR:3085,RGv1,RG23
-published:RGv1,RG23
+published:RGv1,RG23,RSFP:MERCS-CLAN
 rules level:2
 role:Sniper
 

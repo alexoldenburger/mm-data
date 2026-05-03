@@ -24,7 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:3150
 source:RG28
-published:RG28
+published:RG28,RSFP:MERCS
 rules level:3
 role:Striker
 

@@ -24,7 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:3053
 source:TR:3055U,TR:CI,RS:CI
-published:RS:CI
+published:RS:CI,RSFP:Davion
 rules level:2
 role:Skirmisher
 

@@ -24,7 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:3049
 source:TR:3085,RGv1,RSFP:Wave 1
-published:RSFP:Wave 1,RGv1
+published:RSFP:Wave 1,RGv1,RSFP:KH
 rules level:2
 role:Sniper
 

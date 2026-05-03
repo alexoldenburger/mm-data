@@ -24,7 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:3128
 source:RS:3145-NTNU,TR:3145,RS:3145
-published:RS:3145-NTNU,RS:3145
+published:RS:3145-NTNU,RS:3145,RSFP:Davion
 rules level:2
 role:Striker
 

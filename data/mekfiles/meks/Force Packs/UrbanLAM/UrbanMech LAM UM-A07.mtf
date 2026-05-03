@@ -23,6 +23,7 @@ Config:LAM
 techbase:Inner Sphere
 era:3080
 source:SB:UrbanLAM
+published:SB:UrbanLAM
 rules level:3
 role:Skirmisher
 

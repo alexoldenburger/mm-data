@@ -24,7 +24,7 @@ Config:Quad
 techbase:Inner Sphere
 era:2652
 source:TR:3039,RS:3039u
-published:RS:3039u
+published:RS:3039u,RSFP:MERCS
 rules level:1
 role:Sniper
 

@@ -24,7 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:3062
 source:TR:3067,TR:J,RS:J
-published:RS:J
+published:RS:J,RSFP:Davion
 rules level:2
 role:Missile Boat
 

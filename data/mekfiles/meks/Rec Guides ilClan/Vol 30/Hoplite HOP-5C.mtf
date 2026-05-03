@@ -24,7 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3138
 source:RG30
-published:RG30
+published:RG30,RSFP:MERCS
 rules level:3
 role:Brawler
 

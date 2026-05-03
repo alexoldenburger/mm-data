@@ -24,7 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:2675
 source:TR:3039,TR:SW,RSFP:Wave 1
-published:RSFP:Wave 1
+published:RSFP:Wave 1,RS:Gothic,RSFP:Urbies
 rules level:1
 role:Ambusher
 

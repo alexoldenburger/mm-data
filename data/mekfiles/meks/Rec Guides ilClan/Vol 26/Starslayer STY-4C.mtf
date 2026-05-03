@@ -24,7 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3145
 source:RG26
-published:RG26
+published:RG26,RSFP:McCarron,RS:MERCS
 rules level:2
 role:Skirmisher
 

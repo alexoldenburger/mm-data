@@ -24,7 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:3056
 source:TR:3058U,TR:SW,RS:SW
-published:RS:SW
+published:RS:SW,RS:MERCS
 rules level:1
 role:Scout
 

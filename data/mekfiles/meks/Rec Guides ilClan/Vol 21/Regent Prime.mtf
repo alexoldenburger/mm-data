@@ -24,7 +24,7 @@ Config:Biped OmniMek
 techbase:Clan
 era:3145
 source:RG21
-published:RG21
+published:RG21,RSFP:GDL
 rules level:2
 role:Juggernaut
 

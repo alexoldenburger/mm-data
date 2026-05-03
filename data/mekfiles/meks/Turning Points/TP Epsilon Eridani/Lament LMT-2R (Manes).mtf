@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3126
 source:TR:3145:RotS,TP:EE
+published:RSFP:SLDF3
 rules level:3
 role:Brawler
 

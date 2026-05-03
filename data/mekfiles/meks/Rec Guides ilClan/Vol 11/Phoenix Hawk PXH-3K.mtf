@@ -24,7 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:3050
 source:RG11,RGv1,RSFP:Wave 1
-published:RSFP:Wave 1,RG11,RGv1
+published:RSFP:Wave 1,RG11,RGv1,RS:AS
 rules level:2
 role:Striker
 

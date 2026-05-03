@@ -24,7 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:2499
 source:TR:3050,TR:SW,RSFP:Wave 2
-published:RSFP:Wave 2
+published:RSFP:Wave 2,RSFP:SI
 rules level:2
 role:Skirmisher
 
