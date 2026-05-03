@@ -17,8 +17,8 @@
 
 key: SSUP
 name: Sarna Supremacy
-# sucsCodes:
-#   - SS
+sucsCodes:
+  - SS
 capital: Sarna
 successor: CC
 tags:

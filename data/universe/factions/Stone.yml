@@ -17,8 +17,8 @@
 
 key: Stone
 name: Stone's Coalition
-# sucsCodes:
-#   - CoF
+sucsCodes:
+  - CoF
 capital: Terra
 yearsActive:
   - start: 3073

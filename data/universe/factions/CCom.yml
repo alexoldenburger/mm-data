@@ -17,8 +17,8 @@
 
 key: CCom
 name: Capellan Commonality
-# sucsCodes:
-#   - CCom
+sucsCodes:
+  - CCom
 capital: Terra
 successor: CC
 tags:

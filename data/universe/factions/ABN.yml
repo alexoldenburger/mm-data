@@ -17,8 +17,8 @@
 
 key: ABN
 name: Abandoned
-# sucsCodes:
-#   - A
+sucsCodes:
+  - A
 capital: Terra
 tags:
   - SPECIAL

@@ -17,7 +17,7 @@
 
 key: TTU
 name: Tall Trees Union
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Tall Trees
 yearsActive:
   - start: 3136

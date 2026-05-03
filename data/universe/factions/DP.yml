@@ -17,7 +17,7 @@
 
 key: DP
 name: Deep Periphery
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 tags:
   - DEEP_PERIPHERY
   - PERIPHERY

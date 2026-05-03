@@ -17,8 +17,8 @@
 
 key: TC
 name: Taurian Concordat
-# sucsCodes:
-#   - TC
+sucsCodes:
+  - TC
 capital: Taurus
 yearsActive:
   - start: 2335

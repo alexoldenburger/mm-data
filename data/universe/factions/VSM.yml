@@ -17,8 +17,8 @@
 
 key: VSM
 name: Vesper Marches
-# sucsCodes:
-#   - VM
+sucsCodes:
+  - VM
 capital: Melissia
 tags:
   - MINOR

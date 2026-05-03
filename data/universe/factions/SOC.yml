@@ -17,7 +17,7 @@
 
 key: SOC
 name: The Society
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Terra
 yearsActive:
   - start: 3072

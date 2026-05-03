@@ -17,8 +17,8 @@
 
 key: DoL
 name: Duchy of Liao
-# sucsCodes:
-#   - DL
+sucsCodes:
+  - DL
 capital: Terra
 successor: CC
 tags:

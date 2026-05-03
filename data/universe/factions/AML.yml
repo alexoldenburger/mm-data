@@ -17,8 +17,8 @@
 
 key: AML
 name: Alyina Mercantile League
-# sucsCodes:
-#   - AML
+sucsCodes:
+  - AML
 capital: Alyina
 yearsActive:
   - start: 3151

@@ -17,8 +17,8 @@
 
 key: TiC
 name: Timbuktu Collective
-# sucsCodes:
-#   - TiC
+sucsCodes:
+  - TiC
 capital: Timbuktu
 tags:
   - MINOR

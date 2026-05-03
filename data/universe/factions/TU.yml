@@ -17,7 +17,7 @@
 
 key: TU
 name: Tikonov Union
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Terra
 successor: TGU
 tags:

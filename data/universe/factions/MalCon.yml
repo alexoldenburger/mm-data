@@ -17,8 +17,8 @@
 
 key: MalCon
 name: Malthus Confederation
-# sucsCodes:
-#   - MaC
+sucsCodes:
+  - MaC
 yearsActive:
   - start: 3151
 tags:

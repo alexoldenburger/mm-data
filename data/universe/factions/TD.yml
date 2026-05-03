@@ -17,8 +17,8 @@
 
 key: TD
 name: Tortuga Dominions
-# sucsCodes:
-#   - TD
+sucsCodes:
+  - TD
 capital: Tortuga Prime
 yearsActive:
   - start: 2785

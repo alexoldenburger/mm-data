@@ -17,8 +17,8 @@
 
 key: IND
 name: Independent
-# sucsCodes:
-#   - I
+sucsCodes:
+  - I
 capital: Terra
 tags:
   - IS

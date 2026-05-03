@@ -17,8 +17,8 @@
 
 key: AB
 name: Azami Brotherhood
-# sucsCodes:
-#   - AB
+sucsCodes:
+  - AB
 capital: Algedi
 yearsActive:
   - start: 2450

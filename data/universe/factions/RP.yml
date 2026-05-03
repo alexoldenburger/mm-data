@@ -17,7 +17,7 @@
 
 key: RP
 name: Regulan Principality
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Regulus
 successor: FWL
 tags:

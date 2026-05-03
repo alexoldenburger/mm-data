@@ -17,7 +17,7 @@
 
 key: Alf
 name: Alfirk
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Alfirk
 tags:
   - MINOR

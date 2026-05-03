@@ -17,8 +17,8 @@
 
 key: CC
 name: Capellan Confederation
-# sucsCodes:
-#   - CC
+sucsCodes:
+  - CC
 capital: Sian
 yearsActive:
   - start: 2367

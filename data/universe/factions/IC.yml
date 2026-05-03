@@ -17,8 +17,8 @@
 
 key: IC
 name: Ingersoll Concordium
-# sucsCodes:
-#   - IC
+sucsCodes:
+  - IC
 capital: Ingersoll
 yearsActive:
   - start: 2200

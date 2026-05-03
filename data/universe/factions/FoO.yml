@@ -17,8 +17,8 @@
 
 key: FoO
 name: Federation of Oriente
-# sucsCodes:
-#   - FO
+sucsCodes:
+  - FO
 capital: Oriente
 successor: FWL
 tags:

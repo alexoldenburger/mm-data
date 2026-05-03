@@ -17,8 +17,8 @@
 
 key: FFR
 name: Finmark Free Republic
-# sucsCodes:
-#   - FFR
+sucsCodes:
+  - FFR
 capital: Finmark
 tags:
   - MINOR

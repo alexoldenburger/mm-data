@@ -17,7 +17,7 @@
 
 key: BAN
 name: Bandit Caste
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 yearsActive:
   - start: 2830
 tags:

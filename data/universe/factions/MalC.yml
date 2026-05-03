@@ -17,8 +17,8 @@
 
 key: MalC
 name: Malthus Confederation
-# sucsCodes:
-#   - MaC
+sucsCodes:
+  - MaC
 capital: Dustball
 tags:
   - MINOR

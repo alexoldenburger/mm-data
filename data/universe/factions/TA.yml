@@ -17,8 +17,8 @@
 
 key: TA
 name: Terran Alliance
-# sucsCodes:
-#   - TA
+sucsCodes:
+  - TA
 capital: Terra
 yearsActive:
   - start: 2086

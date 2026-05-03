@@ -17,8 +17,8 @@
 
 key: Mara
 name: Marlette Association
-# sucsCodes:
-#   - MarA
+sucsCodes:
+  - MarA
 capital: Terra
 successor: FS
 tags:

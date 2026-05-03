@@ -17,7 +17,7 @@
 
 key: MG
 name: Mercenary Guild
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Solaris
 yearsActive:
   - end: 2789

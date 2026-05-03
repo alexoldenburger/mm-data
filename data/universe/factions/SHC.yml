@@ -17,8 +17,8 @@
 
 key: SHC
 name: Silver Hawk Coalition
-# sucsCodes:
-#   - SHC
+sucsCodes:
+  - SHC
 capital: Amity
 yearsActive:
   - start: 3079

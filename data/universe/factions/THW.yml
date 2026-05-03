@@ -17,8 +17,8 @@
 
 key: THW
 name: Taurian Homeworlds
-# sucsCodes:
-#   - THW
+sucsCodes:
+  - THW
 capital: Taurus
 successor: TC
 tags:

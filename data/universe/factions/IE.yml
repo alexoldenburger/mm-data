@@ -17,8 +17,8 @@
 
 key: IE
 name: Interstellar Expeditions
-# sucsCodes:
-#   - IE
+sucsCodes:
+  - IE
 capital: Terra
 tags:
   - PERIPHERY

@@ -17,7 +17,7 @@
 
 key: SIMA
 name: St. Ives Mercantile Association
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Terra
 successor: CC
 tags:

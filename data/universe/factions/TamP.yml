@@ -17,8 +17,8 @@
 
 key: TamP
 name: Tamar Pact
-# sucsCodes:
-#   - TamP
+sucsCodes:
+  - TamP
 capital: Tamar
 capitalChanges:
   3151: Arcturus

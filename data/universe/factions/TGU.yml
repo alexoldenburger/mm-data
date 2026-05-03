@@ -17,8 +17,8 @@
 
 key: TGU
 name: Tikonov Grand Union
-# sucsCodes:
-#   - TGU
+sucsCodes:
+  - TGU
 capital: Terra
 successor: CC
 tags:

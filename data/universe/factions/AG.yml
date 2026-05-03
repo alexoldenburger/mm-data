@@ -17,8 +17,8 @@
 
 key: AG
 name: Alliance of Galedon
-# sucsCodes:
-#   - AG
+sucsCodes:
+  - AG
 capital: Galedon
 successor: DC
 tags:

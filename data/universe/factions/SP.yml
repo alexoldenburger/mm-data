@@ -17,7 +17,7 @@
 
 key: SP
 name: Sarna Protectorate
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Terra
 tags:
   - MINOR

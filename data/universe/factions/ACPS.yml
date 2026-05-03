@@ -17,7 +17,7 @@
 
 key: ACPS
 name: Asian Co-Prosperity Sphere
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Terra
 successor: WA
 tags:

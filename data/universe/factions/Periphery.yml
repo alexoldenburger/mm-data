@@ -17,7 +17,7 @@
 
 key: Periphery
 name: Periphery
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 tags:
   - PERIPHERY
   - AGGREGATE

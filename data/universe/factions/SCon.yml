@@ -17,7 +17,7 @@
 
 key: SCon
 name: Stewart Confederation
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Stewart
 successor: FWL
 tags:

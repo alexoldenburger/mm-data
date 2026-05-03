@@ -17,8 +17,8 @@
 
 key: AE
 name: Amaris Empire
-# sucsCodes:
-#   - AE
+sucsCodes:
+  - AE
 capital: Terra
 tags:
   - MINOR

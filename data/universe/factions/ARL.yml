@@ -17,8 +17,8 @@
 
 key: ARL
 name: Arc-Royal Liberty Coalition
-# sucsCodes:
-#   - ALC
+sucsCodes:
+  - ALC
 capital: Arc-Royal
 yearsActive:
   - start: 3151

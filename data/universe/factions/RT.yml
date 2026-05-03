@@ -17,8 +17,8 @@
 
 key: RT
 name: Rim Territories
-# sucsCodes:
-#   - RT
+sucsCodes:
+  - RT
 capital: Pain
 yearsActive:
   - start: 3087

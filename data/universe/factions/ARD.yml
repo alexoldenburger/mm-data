@@ -17,8 +17,8 @@
 
 key: ARD
 name: Aurigan Directorate
-# sucsCodes:
-#   - AuD
+sucsCodes:
+  - AuD
 capital: Coromodir
 yearsActive:
   - start: 3022

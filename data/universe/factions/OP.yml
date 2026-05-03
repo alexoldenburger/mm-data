@@ -17,8 +17,8 @@
 
 key: OP
 name: Oriente Protectorate
-# sucsCodes:
-#   - OP
+sucsCodes:
+  - OP
 capital: Oriente
 yearsActive:
   - start: 3086

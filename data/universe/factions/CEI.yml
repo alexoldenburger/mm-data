@@ -17,8 +17,8 @@
 
 key: CEI
 name: Escorpión Imperio
-# sucsCodes:
-#   - EI
+sucsCodes:
+  - EI
 nameChanges:
   3141: Scorpion Empire
 capital: Granada

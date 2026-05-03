@@ -17,8 +17,8 @@
 
 key: SKC
 name: Styk Commonality
-# sucsCodes:
-#   - SKC
+sucsCodes:
+  - SKC
 nameChanges:
   3063: Styk Protectorate
 capital: Styk

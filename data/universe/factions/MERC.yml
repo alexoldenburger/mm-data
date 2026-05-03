@@ -17,7 +17,7 @@
 
 key: MERC
 name: Mercenary
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Solaris
 capitalChanges:
   2789: Galatea

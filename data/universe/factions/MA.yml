@@ -17,8 +17,8 @@
 
 key: MA
 name: Mosiro Archipelago
-# sucsCodes:
-#   - MA
+sucsCodes:
+  - MA
 capital: Mosiro
 successor: DA
 tags:

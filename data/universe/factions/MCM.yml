@@ -17,8 +17,8 @@
 
 key: MCM
 name: Marik Commonwealth
-# sucsCodes:
-#   - MCM
+sucsCodes:
+  - MCM
 capital: Marik
 yearsActive:
   - start: 3079

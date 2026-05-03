@@ -17,8 +17,8 @@
 
 key: NOC
 name: New Oberon Confederation
-# sucsCodes:
-#   - NOC
+sucsCodes:
+  - NOC
 capital: Oberon VI
 tags:
   - PERIPHERY

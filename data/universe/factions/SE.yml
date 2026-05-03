@@ -17,8 +17,8 @@
 
 key: SE
 name: Scorpion Empire
-# sucsCodes:
-#   - SE
+sucsCodes:
+  - SE
 yearsActive:
   - start: 3141
 tags:

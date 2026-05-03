@@ -17,8 +17,8 @@
 
 key: SA
 name: Senatorial Alliance
-# sucsCodes:
-#   - SA
+sucsCodes:
+  - SA
 capital: Augustine
 yearsActive:
   - start: 3135

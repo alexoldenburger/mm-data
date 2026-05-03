@@ -17,8 +17,8 @@
 
 key: OA
 name: Outworlds Alliance
-# sucsCodes:
-#   - OA
+sucsCodes:
+  - OA
 nameChanges:
   3083: Raven Alliance
 capital: Alpheratz

@@ -17,7 +17,7 @@
 
 key: GDL
 name: Galatean Defense League
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Galatea
 tags:
   - MINOR

@@ -17,8 +17,8 @@
 
 key: UC
 name: Umayyad Caliphate
-# sucsCodes:
-#   - UC
+sucsCodes:
+  - UC
 capital: Granada
 yearsActive:
   - start: 2830

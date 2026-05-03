@@ -17,8 +17,8 @@
 
 key: RF
 name: Regulan Fiefs
-# sucsCodes:
-#   - RF
+sucsCodes:
+  - RF
 capital: Regulus
 yearsActive:
   - start: 3086

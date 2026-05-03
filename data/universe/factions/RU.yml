@@ -17,8 +17,8 @@
 
 key: RU
 name: Ragnarok Union
-# sucsCodes:
-#   - RU
+sucsCodes:
+  - RU
 capital: Terra
 tags:
   - MINOR

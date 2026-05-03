@@ -17,8 +17,8 @@
 
 key: PR
 name: Principality of Regulus
-# sucsCodes:
-#   - PR
+sucsCodes:
+  - PR
 capital: Regulus
 yearsActive:
   - start: 3079

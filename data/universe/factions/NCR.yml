@@ -17,8 +17,8 @@
 
 key: NCR
 name: New Colony Region
-# sucsCodes:
-#   - NCR
+sucsCodes:
+  - NCR
 capital: Fronc
 yearsActive:
   - start: 3060

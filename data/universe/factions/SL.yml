@@ -17,9 +17,9 @@
 
 key: SL
 name: Star League
-# sucsCodes:
-#   - SL
-#   - SLDF
+sucsCodes:
+  - SL
+  - SLDF
 capital: Terra
 yearsActive:
   - start: 2571

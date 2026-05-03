@@ -17,8 +17,8 @@
 
 key: WOB
 name: Word of Blake
-# sucsCodes:
-#   - WB
+sucsCodes:
+  - WB
 capital: Terra
 yearsActive:
   - start: 3052

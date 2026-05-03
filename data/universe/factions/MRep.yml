@@ -17,8 +17,8 @@
 
 key: MRep
 name: Marik Republic
-# sucsCodes:
-#   - MR
+sucsCodes:
+  - MR
 capital: Marik
 successor: FWL
 tags:

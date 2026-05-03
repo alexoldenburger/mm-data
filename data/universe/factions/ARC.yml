@@ -17,8 +17,8 @@
 
 key: ARC
 name: Aurigan Coalition
-# sucsCodes:
-#   - AuC
+sucsCodes:
+  - AuC
 nameChanges:
   3022: Arano Restoration
   3026: Aurigan Coalition

@@ -17,8 +17,8 @@
 
 key: RR
 name: Republic Remnant
-# sucsCodes:
-#   - TR
+sucsCodes:
+  - TR
 capital: Callison
 yearsActive:
   - start: 3135

@@ -17,8 +17,8 @@
 
 key: SCW
 name: Sian Commonwealth
-# sucsCodes:
-#   - SCo
+sucsCodes:
+  - SCo
 capital: Terra
 successor: CC
 tags:

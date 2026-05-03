@@ -17,8 +17,8 @@
 
 key: CH
 name: Capellan Hegemony
-# sucsCodes:
-#   - CH
+sucsCodes:
+  - CH
 capital: Terra
 successor: CCom
 tags:

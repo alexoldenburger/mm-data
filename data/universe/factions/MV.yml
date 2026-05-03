@@ -17,8 +17,8 @@
 
 key: MV
 name: Morgraine's Valkyrate
-# sucsCodes:
-#   - MV
+sucsCodes:
+  - MV
 capital: Gotterdammerung
 yearsActive:
   - start: 3021

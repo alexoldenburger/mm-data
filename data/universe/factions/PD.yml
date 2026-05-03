@@ -17,8 +17,8 @@
 
 key: PD
 name: Protectorate of Donegal
-# sucsCodes:
-#   - PD
+sucsCodes:
+  - PD
 capital: Terra
 successor: LA
 tags:

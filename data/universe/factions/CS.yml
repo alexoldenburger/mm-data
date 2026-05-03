@@ -17,8 +17,8 @@
 
 key: CS
 name: SLCOMNET
-# sucsCodes:
-#   - CS
+sucsCodes:
+  - CS
 nameChanges:
   2788: ComStar
 capital: Terra

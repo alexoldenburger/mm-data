@@ -17,8 +17,8 @@
 
 key: PG
 name: Principality of Gibson
-# sucsCodes:
-#   - PG
+sucsCodes:
+  - PG
 capital: Gibson
 yearsActive:
   - start: 3079

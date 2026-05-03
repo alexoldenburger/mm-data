@@ -17,7 +17,7 @@
 
 key: ChP
 name: Chisholm Protectorate
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Elgin (Chisholm 2878-)
 successor: CC
 tags:

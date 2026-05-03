@@ -17,8 +17,8 @@
 
 key: DIS
 name: Disputed
-# sucsCodes:
-#   - D
+sucsCodes:
+  - D
 capital: Terra
 tags:
   - SPECIAL

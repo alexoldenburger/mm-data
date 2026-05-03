@@ -17,7 +17,7 @@
 
 key: MRBC
 name: Mercenary Review and Bonding Commission
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Outreach
 capitalChanges:
   3067: Galatea

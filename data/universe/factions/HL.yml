@@ -17,8 +17,8 @@
 
 key: HL
 name: Hanseatic League
-# sucsCodes:
-#   - HL
+sucsCodes:
+  - HL
 capital: Bremen (HL)
 yearsActive:
   - start: 2891

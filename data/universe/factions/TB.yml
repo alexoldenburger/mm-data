@@ -17,8 +17,8 @@
 
 key: TB
 name: Republic of the Barrens
-# sucsCodes:
-#   - RB
+sucsCodes:
+  - RB
 capital: Gustrell
 yearsActive:
   - start: 3100

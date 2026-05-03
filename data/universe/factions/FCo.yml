@@ -17,8 +17,8 @@
 
 key: FCo
 name: Ferris Collective
-# sucsCodes:
-#   - FCo
+sucsCodes:
+  - FCo
 capital: Ferris
 tags:
   - MINOR

@@ -17,8 +17,8 @@
 
 key: AC
 name: Azami Caliphate
-# sucsCodes:
-#   - AC
+sucsCodes:
+  - AC
 capital: Algedi
 successor: DC
 tags:

@@ -17,8 +17,8 @@
 
 key: AXP
 name: Axumite Providence
-# sucsCodes:
-#   - AP
+sucsCodes:
+  - AP
 capital: Thala
 tags:
   - DEEP_PERIPHERY

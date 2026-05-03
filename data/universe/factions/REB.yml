@@ -17,7 +17,7 @@
 
 key: REB
 name: Rebels
-# sucsCodes: []  # no SUCS equivalent
+sucsCodes: []  # no SUCS equivalent
 capital: Terra
 tags:
   - REBEL

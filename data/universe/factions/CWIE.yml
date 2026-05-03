@@ -17,8 +17,8 @@
 
 key: CWIE
 name: Clan Wolf-in-Exile
-# sucsCodes:
-#   - CWX
+sucsCodes:
+  - CWX
 capital: Arc-Royal
 yearsActive:
   - start: 3057
