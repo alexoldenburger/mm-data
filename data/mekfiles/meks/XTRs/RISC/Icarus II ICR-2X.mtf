@@ -23,6 +23,7 @@ Config:Biped
 techbase:Inner Sphere
 era:3135
 source:XTR:RISC
+published:XTR:RISC
 rules level:4
 role:Skirmisher
 

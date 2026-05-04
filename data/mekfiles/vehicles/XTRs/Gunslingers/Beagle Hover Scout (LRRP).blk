@@ -109,6 +109,10 @@ ISVehicularMineDispenser
 XTR:Gunslingers
 </source>
 
+<published>
+XTR:Gunslingers
+</published>
+
 <tonnage>
 15.0
 </tonnage>

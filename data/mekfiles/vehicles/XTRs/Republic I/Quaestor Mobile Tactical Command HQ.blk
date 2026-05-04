@@ -108,6 +108,10 @@ Machine Gun(ST)
 XTR:RotS 1
 </source>
 
+<published>
+XTR:RotS 1
+</published>
+
 <tonnage>
 30.0
 </tonnage>

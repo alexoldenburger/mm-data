@@ -121,6 +121,10 @@ IS Ammo SRM-2
 XTR:RotS 1
 </source>
 
+<published>
+XTR:RotS 1
+</published>
+
 <tonnage>
 40.0
 </tonnage>

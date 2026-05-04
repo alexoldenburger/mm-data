@@ -93,6 +93,10 @@ InfantryAssaultRifle:APM:LA
 XTR:Steiner
 </source>
 
+<published>
+XTR:Steiner
+</published>
+
 <chassis>
 biped
 </chassis>

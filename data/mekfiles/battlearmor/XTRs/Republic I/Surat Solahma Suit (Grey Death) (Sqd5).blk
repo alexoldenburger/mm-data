@@ -95,6 +95,10 @@ InfantryAssaultRifle:APM
 XTR:RotS 1
 </source>
 
+<published>
+XTR:RotS 1
+</published>
+
 <chassis>
 biped
 </chassis>

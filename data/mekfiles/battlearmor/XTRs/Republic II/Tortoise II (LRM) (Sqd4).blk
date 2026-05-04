@@ -98,6 +98,10 @@ BACL Ammo LRM-4:TU:Shots3#
 XTR:RotS 2
 </source>
 
+<published>
+XTR:RotS 2
+</published>
+
 <chassis>
 quad
 </chassis>

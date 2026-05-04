@@ -93,6 +93,10 @@ BABasicManipulator:RA
 XTR:RotS 3
 </source>
 
+<published>
+XTR:RotS 3
+</published>
+
 <chassis>
 biped
 </chassis>

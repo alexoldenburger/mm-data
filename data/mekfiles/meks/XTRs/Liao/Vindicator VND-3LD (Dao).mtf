@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3078
 source:XTR:Liao
+published:XTR:Liao
 rules level:4
 role:Sniper
 

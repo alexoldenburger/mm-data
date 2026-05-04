@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3075
 source:XTR:Mercs
+published:XTR:Mercs
 rules level:3
 role:Sniper
 

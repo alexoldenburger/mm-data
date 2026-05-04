@@ -115,6 +115,10 @@ ISC3RemoteSensorLauncher
 XTR:Phantoms
 </source>
 
+<published>
+XTR:Phantoms
+</published>
+
 <tonnage>
 60.0
 </tonnage>

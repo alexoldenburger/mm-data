@@ -23,6 +23,7 @@ Config:Tripod
 techbase:Mixed (IS Chassis)
 era:3132
 source:XTR:RISC
+published:XTR:RISC
 rules level:3
 role:Scout
 

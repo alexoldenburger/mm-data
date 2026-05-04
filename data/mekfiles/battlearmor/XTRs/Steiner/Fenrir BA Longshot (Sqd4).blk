@@ -86,6 +86,10 @@ BACL Ammo LRM-5:Body:Shots2#
 XTR:Steiner
 </source>
 
+<published>
+XTR:Steiner
+</published>
+
 <chassis>
 quad
 </chassis>

@@ -118,6 +118,10 @@ LRM 15
 XTR:RotS 1
 </source>
 
+<published>
+XTR:RotS 1
+</published>
+
 <tonnage>
 50.0
 </tonnage>

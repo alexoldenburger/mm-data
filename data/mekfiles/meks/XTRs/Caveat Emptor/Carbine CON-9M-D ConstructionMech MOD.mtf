@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3133
 source:XTR:Caveat
+published:XTR:Caveat
 rules level:5
 role:Ambusher
 

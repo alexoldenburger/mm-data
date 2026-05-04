@@ -23,6 +23,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3136
 source:XTR:RISC
+published:XTR:RISC
 rules level:4
 role:Skirmisher
 

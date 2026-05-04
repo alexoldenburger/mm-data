@@ -131,6 +131,10 @@ ISLBXAC2
 XTR:RotS 1,TR:3150
 </source>
 
+<published>
+XTR:RotS 1,TR:3150
+</published>
+
 <tonnage>
 90.0
 </tonnage>

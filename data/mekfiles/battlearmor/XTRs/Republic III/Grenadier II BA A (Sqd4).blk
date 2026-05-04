@@ -95,6 +95,10 @@ BA-SRM4 Ammo:Body:Shots4#
 XTR:RotS 3
 </source>
 
+<published>
+XTR:RotS 3
+</published>
+
 <chassis>
 biped
 </chassis>

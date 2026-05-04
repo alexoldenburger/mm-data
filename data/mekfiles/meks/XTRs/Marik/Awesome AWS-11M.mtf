@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3079
 source:XTR:Marik
+published:XTR:Marik
 rules level:3
 role:Sniper
 

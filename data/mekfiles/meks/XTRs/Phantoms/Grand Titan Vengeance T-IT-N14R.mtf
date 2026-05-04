@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3075
 source:XTR:Phantoms
+published:XTR:Phantoms
 rules level:4
 role:Missile Boat
 
