@@ -23,7 +23,8 @@ mul id:8287
 Config:Biped
 techbase:Inner Sphere
 era:3035
-source:CM:Kurita
+source:CM:Kurita,FM:Kurita
+published:FM:Kurita
 rules level:1
 role:Skirmisher
 

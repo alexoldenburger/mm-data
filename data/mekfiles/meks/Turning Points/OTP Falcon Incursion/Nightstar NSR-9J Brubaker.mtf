@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3057
 source:OTP:FI
+published:OTP:FI
 rules level:4
 role:Sniper
 

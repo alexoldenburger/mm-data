@@ -24,6 +24,7 @@ Config:LAM
 techbase:Mixed (IS Chassis)
 era:3078
 source:JFR
+published:JFR
 rules level:4
 role:Striker
 

@@ -25,6 +25,7 @@ Config:Biped OmniMek
 techbase:Mixed (Clan Chassis)
 era:3109
 source:SO:UF,TR:DA
+published:SO:UF
 rules level:3
 role:Missile Boat
 

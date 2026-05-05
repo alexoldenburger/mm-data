@@ -23,7 +23,8 @@ mul id:8276
 Config:Quad
 techbase:Inner Sphere
 era:3053
-source:FM:M,CM:Mercs
+source:FM:M,CM:Mercs,FM:Mercs
+published:FM:Mercs
 rules level:2
 role:Skirmisher
 

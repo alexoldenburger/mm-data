@@ -24,6 +24,7 @@ Config:Biped
 techbase:Clan
 era:2830
 source:TR:GC,ED:GC
+published:ED:GC
 rules level:2
 role:Juggernaut
 

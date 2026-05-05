@@ -24,6 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:3085
 source:BD:LL,TR:3085
+published:BD:LL
 rules level:2
 role:Sniper
 

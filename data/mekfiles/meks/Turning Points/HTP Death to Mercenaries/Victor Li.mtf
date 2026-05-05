@@ -24,6 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:3028
 source:OTP:DTM
+published:OTP:DTM
 rules level:1
 role:Skirmisher
 

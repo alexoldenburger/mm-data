@@ -24,6 +24,7 @@ Config:Biped OmniMek
 techbase:Mixed (IS Chassis)
 era:3120
 source:SF
+published:SF
 rules level:3
 role:Skirmisher
 

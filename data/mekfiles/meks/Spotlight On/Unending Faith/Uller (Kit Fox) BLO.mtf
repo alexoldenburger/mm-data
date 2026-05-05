@@ -25,6 +25,7 @@ Config:Biped OmniMek
 techbase:Mixed (Clan Chassis)
 era:3138
 source:SO:UF,TR:CI
+published:SO:UF
 rules level:4
 role:Skirmisher
 

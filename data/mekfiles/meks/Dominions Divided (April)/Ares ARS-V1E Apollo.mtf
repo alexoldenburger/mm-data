@@ -24,6 +24,7 @@ Config:Tripod OmniMek
 techbase:Mixed (IS Chassis)
 era:3151
 source:DD
+published:DD
 rules level:3
 role:Juggernaut
 

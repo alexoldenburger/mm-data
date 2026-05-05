@@ -23,7 +23,8 @@ mul id:5865
 Config:Biped
 techbase:Inner Sphere
 era:3054
-source:CM:Kurita,FM:DC
+source:CM:Kurita,FM:DC,FM:Kurita
+published:FM:Kurita
 rules level:2
 role:Striker
 

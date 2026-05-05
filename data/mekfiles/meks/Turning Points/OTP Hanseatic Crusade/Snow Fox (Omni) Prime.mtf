@@ -24,6 +24,7 @@ Config:Quad OmniMek
 techbase:Clan
 era:3111
 source:OTP:HC
+published:OTP:HC
 rules level:2
 role:Scout
 

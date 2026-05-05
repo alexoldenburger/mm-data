@@ -24,6 +24,7 @@ Config:Biped OmniMek
 techbase:Mixed (IS Chassis)
 era:3070
 source:JTP:Luthien,SB:S&D
+published:JTP:Luthien
 rules level:3
 role:Skirmisher
 

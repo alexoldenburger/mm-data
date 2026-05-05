@@ -24,6 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:3072
 source:JTP:NewAvalon
+published:JTP:NewAvalon
 rules level:2
 role:Skirmisher
 

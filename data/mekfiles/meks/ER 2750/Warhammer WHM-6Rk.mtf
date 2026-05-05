@@ -24,6 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:2721
 source:ER:2750,SO:TP
+published:SO:TP
 rules level:3
 role:Skirmisher
 

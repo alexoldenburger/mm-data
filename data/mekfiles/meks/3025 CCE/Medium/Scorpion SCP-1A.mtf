@@ -22,7 +22,7 @@ model:SCP-1A
 Config:Quad
 techbase:Inner Sphere
 era:3030
-source:TR:3039
+source:TR:3025C
 rules level:1
 role:Skirmisher
 

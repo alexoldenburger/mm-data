@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:2824
 source:TR:GC
+published:TR:GC
 rules level:4
 role:Missile Boat
 

@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3063
 source:SO:HH,TR:SW
+published:SO:HH
 rules level:4
 role:Sniper
 
