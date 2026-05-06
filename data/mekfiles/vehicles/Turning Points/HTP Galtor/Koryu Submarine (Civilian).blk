@@ -102,9 +102,9 @@ cargobay:5.5:1:1::-1:0
 HTP:Galtor
 </source>
 
-<source>
+<published>
 HTP:Galtor
-</source>
+</published>
 
 <tonnage>
 30.0
