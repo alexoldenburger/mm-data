@@ -21,7 +21,7 @@ model:RFL-3N (Sneede II)
 
 Config:Biped FrankenMek
 techbase:Mixed (IS Chassis)
-era:3070
+era:3147
 source:CSI
 published:RSFP:SI
 rules level:4

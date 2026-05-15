@@ -21,7 +21,7 @@ model:RFL-3N (Sneede)
 
 Config:Biped FrankenMek
 techbase:Inner Sphere
-era:3020
+era:3024
 source:CSI
 published:RSFP:SI
 rules level:4
