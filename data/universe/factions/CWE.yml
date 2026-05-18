@@ -17,6 +17,8 @@
 
 key: CWE
 name: Wolf Empire
+sucsCodes:
+  - WE
 capital: Gienah
 yearsActive:
   - start: 3143

@@ -26,19 +26,21 @@ tasks.withType(Checkstyle::class.java).configureEach {
     maxHeapSize = "4g"
     maxWarnings = 0  // Fail on any warning
     maxErrors = 0    // Fail on any error
-    source(project.sourceSets.main.get().allSource)
+    source(project.sourceSets.main.get().allSource.matching {
+        exclude("**/*.psd", "**/*.PSD")
+    })
     configFile = file("${rootDir}/config/checkstyle/checkstyle.xml")
 }
 
 var stagingFolder = File(project.layout.buildDirectory.get().toString(), "staging")
 
 dependencies {
-    implementation("com.puppycrawl.tools:checkstyle:12.3.1")
+    implementation("com.puppycrawl.tools:checkstyle:13.4.0")
 }
 
 java {
     toolchain {
-        languageVersion = JavaLanguageVersion.of(17)
+        languageVersion = JavaLanguageVersion.of(21)
     }
 }
 

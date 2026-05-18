@@ -17,6 +17,8 @@
 
 key: IoS
 name: Isle of Skye
+sucsCodes:
+  - IoS
 capital: Skye
 yearsActive:
   - start: 3151
