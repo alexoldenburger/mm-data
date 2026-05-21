@@ -1705,6 +1705,8 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <displayName>Significant Compulsion - Narcotic Addiction (ATOW)</displayName>
         <desc><![CDATA[Once per week a Willpower check is made (with a -2 penalty). If failed, the character suffers the Discontinuation Syndrome Injury and gains two Fatigue (if Fatigue is enabled).
 
+This check can be skipped if the campaign is willing to subsidize the character's addiction. This can be done via the 'Flags' menu in the Personnel tab.
+
 If Advanced Medical is disabled, the character suffers a single Hit, instead of the Injury.
 
 While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
