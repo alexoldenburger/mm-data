@@ -1687,7 +1687,7 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     <ability>
         <lookupName>unofficial_biological_machinist</lookupName>
         <displayName>Biological Machinist (Unofficial)</displayName>
-        <desc><![CDATA[Decreases the target number of all prosthetic surgeries by 2 (excludes cosmetic surgery). This only has an effect if Advanced Medical's alternative mode is enabled.]]></desc>
+        <desc><![CDATA[Decreases the target number of all advanced surgeries by 2 (excludes cosmetic surgery). This only has an effect if Advanced Medical's alternative mode is enabled.]]></desc>
         <xpCost>100</xpCost>
         <originOnly>false</originOnly>
         <weight>1</weight>
