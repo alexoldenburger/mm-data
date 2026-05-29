@@ -1794,6 +1794,17 @@ Has limited effects if Advanced Scouting is disabled.]]></desc>
         <skillPrereq />
     </ability>
     <ability>
+        <lookupName>unofficial_hypochondriac</lookupName>
+        <displayName>Hypochondriac (Unofficial)</displayName>
+        <desc><![CDATA[The more injured a character is, the harder the Surgery/Any check to heal them. This character increases their healing Target Number by 1.
+
+This only has an effect if Advanced Medical's alternative mode is enabled.]]></desc>
+        <xpCost>-100</xpCost>
+        <originOnly>false</originOnly>
+        <weight>1</weight>
+        <skillPrereq />
+    </ability>
+    <ability>
         <lookupName>unofficial_prothesis_technician</lookupName>
         <displayName>Experienced Prothesis Technician (Unofficial)</displayName>
         <desc><![CDATA[The more locations that have been replaced by prosthetics, or implants, the harder a patient is to heal. This trait decreases the penalty by 1.
