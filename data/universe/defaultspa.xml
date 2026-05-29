@@ -539,6 +539,32 @@ Has limited benefit if the functional appraisal option is not enabled in campaig
         <weight>1</weight>
     </ability>
     <ability>
+        <lookupName>unofficial_shakey_scalpel</lookupName>
+        <displayName>Shakey Scalpel (Unofficial)</displayName>
+        <desc><![CDATA[Increases the Target Number for all Surgery/Any checks by 2.
+
+This has no effect if Advanced Medical's alternative mode is disabled.]]></desc>
+        <xpCost>-100</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Surgery/Any::Regular</skill>
+        </skillPrereq>
+        <weight>1</weight>
+    </ability>
+    <ability>
+        <lookupName>unofficial_pathologic_insight</lookupName>
+        <displayName>Pathologic Insight (Unofficial)</displayName>
+        <desc><![CDATA[Decreases the Target Number for all Surgery/Any checks made to curse diseases by 2.
+
+This has no effect if Advanced Medical's alternative mode is disabled.]]></desc>
+        <xpCost>100</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Surgery/Any::Regular</skill>
+        </skillPrereq>
+        <weight>1</weight>
+    </ability>
+    <ability>
         <lookupName>unofficial_houdini</lookupName>
         <displayName>Houdini (Unofficial)</displayName>
         <desc><![CDATA[Decreases the Target Number for all Escape Artist checks by 2.]]></desc>
@@ -1717,7 +1743,7 @@ This only has an effect if Advanced Medical's alternative mode is enabled.]]></d
         <xpCost>200</xpCost>
         <originOnly>false</originOnly>
         <skillPrereq>
-            <skill>Administration::Veteran</skill>
+            <skill>Surgery/Any::Veteran</skill>
         </skillPrereq>
         <weight>1</weight>
         <skillPrereq />
@@ -1733,7 +1759,7 @@ This only has an effect if Advanced Medical's alternative mode is enabled.]]></d
         <xpCost>100</xpCost>
         <originOnly>false</originOnly>
         <skillPrereq>
-            <skill>Administration::Veteran</skill>
+            <skill>Surgery/Any::Veteran</skill>
         </skillPrereq>
         <weight>1</weight>
         <skillPrereq />
@@ -1749,7 +1775,7 @@ This only has an effect if Advanced Medical's alternative mode is enabled.]]></d
         <xpCost>100</xpCost>
         <originOnly>false</originOnly>
         <skillPrereq>
-            <skill>Administration::Regular</skill>
+            <skill>Surgery/Any::Regular</skill>
         </skillPrereq>
         <weight>1</weight>
         <skillPrereq />
