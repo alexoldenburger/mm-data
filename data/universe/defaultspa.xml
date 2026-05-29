@@ -541,9 +541,18 @@ Has limited benefit if the functional appraisal option is not enabled in campaig
     <ability>
         <lookupName>unofficial_shakey_scalpel</lookupName>
         <displayName>Shakey Scalpel (Unofficial)</displayName>
-        <desc><![CDATA[Increases the Target Number for all Surgery/Any checks by 2.
-
-This has no effect if Advanced Medical's alternative mode is disabled.]]></desc>
+        <desc><![CDATA[Increases the Target Number for all Surgery/Any checks by 2.]]></desc>
+        <xpCost>-100</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Surgery/Any::Regular</skill>
+        </skillPrereq>
+        <weight>1</weight>
+    </ability>
+    <ability>
+        <lookupName>unofficial_paper_surgeon</lookupName>
+        <displayName>Paper Surgeon (Unofficial)</displayName>
+        <desc><![CDATA[This character is an excellent surgeon, on paper. Increases the Target Number for all Surgery/Any checks by 2.]]></desc>
         <xpCost>-100</xpCost>
         <originOnly>false</originOnly>
         <skillPrereq>
