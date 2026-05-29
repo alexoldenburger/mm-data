@@ -552,6 +552,17 @@ This has no effect if Advanced Medical's alternative mode is disabled.]]></desc>
         <weight>1</weight>
     </ability>
     <ability>
+        <lookupName>unofficial_patient_educator</lookupName>
+        <displayName>Patient Educator (Unofficial)</displayName>
+        <desc><![CDATA[Decreases the Target Number for all Training checks by 2.]]></desc>
+        <xpCost>100</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Training::Regular</skill>
+        </skillPrereq>
+        <weight>1</weight>
+    </ability>
+    <ability>
         <lookupName>unofficial_pathologic_insight</lookupName>
         <displayName>Pathologic Insight (Unofficial)</displayName>
         <desc><![CDATA[Decreases the Target Number for all Surgery/Any checks made to curse diseases by 2.
