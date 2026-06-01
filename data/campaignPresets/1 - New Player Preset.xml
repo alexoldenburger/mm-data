@@ -301,6 +301,7 @@
         <onlyCommandersMatterVehicles>true</onlyCommandersMatterVehicles>
         <onlyCommandersMatterInfantry>true</onlyCommandersMatterInfantry>
         <onlyCommandersMatterBattleArmor>true</onlyCommandersMatterBattleArmor>
+        <edgeRefreshPeriod>WEEKLY</edgeRefreshPeriod>
         <useEdge>true</useEdge>
         <useSupportEdge>true</useSupportEdge>
         <useImplants>true</useImplants>
