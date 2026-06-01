@@ -511,6 +511,102 @@
 
     <!-- Misc SPA -->
     <ability>
+        <lookupName>unofficial_transport_negotiator</lookupName>
+        <displayName>Transport Negotiator (Unofficial)</displayName>
+        <desc><![CDATA[Decreases all transport costs by 5%. Multiple characters with this SPA do not stack their benefits.
+
+Has no benefit to a character without the Admin/Transport profession.]]></desc>
+        <xpCost>100</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Administration::Regular</skill>
+        </skillPrereq>
+        <weight>1</weight>
+    </ability>
+    <ability>
+        <lookupName>unofficial_bargain_hunter</lookupName>
+        <displayName>Bargain Hunter (Unofficial)</displayName>
+        <desc><![CDATA[Decreases the Target Number for all Appraisal checks by 2.
+
+This is useful for procurement characters as it increases the chance they will find a bargain (discount) on purchased parts.
+
+Has limited benefit if the functional appraisal option is not enabled in campaign options.]]></desc>
+        <xpCost>100</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Appraisal::Regular</skill>
+        </skillPrereq>
+        <weight>1</weight>
+    </ability>
+    <ability>
+        <lookupName>unofficial_shakey_scalpel</lookupName>
+        <displayName>Shakey Scalpel (Unofficial)</displayName>
+        <desc><![CDATA[Increases the Target Number for all Surgery/Any checks by 2.]]></desc>
+        <xpCost>-100</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Surgery/Any::Regular</skill>
+        </skillPrereq>
+        <weight>1</weight>
+    </ability>
+    <ability>
+        <lookupName>unofficial_embezzler</lookupName>
+        <displayName>Embezzler (Unofficial)</displayName>
+        <desc><![CDATA[At the end of each month, some money goes missing. Nobody knows where. It's probably fine.]]></desc>
+        <xpCost>-100</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Administration::Regular</skill>
+        </skillPrereq>
+        <weight>1</weight>
+    </ability>
+    <ability>
+        <lookupName>unofficial_paper_surgeon</lookupName>
+        <displayName>Paper Surgeon (Unofficial)</displayName>
+        <desc><![CDATA[This character is an excellent surgeon, on paper. Increases the Target Number for all Surgery/Any checks by 2.]]></desc>
+        <xpCost>-100</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Surgery/Any::Regular</skill>
+        </skillPrereq>
+        <weight>1</weight>
+    </ability>
+    <ability>
+        <lookupName>unofficial_loses_paperwork</lookupName>
+        <displayName>Constantly Loses Paperwork (Unofficial)</displayName>
+        <desc><![CDATA[Increases the Target Number for all Administration checks by 2.]]></desc>
+        <xpCost>-100</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Administration::Regular</skill>
+        </skillPrereq>
+        <weight>1</weight>
+    </ability>
+    <ability>
+        <lookupName>unofficial_patient_educator</lookupName>
+        <displayName>Patient Educator (Unofficial)</displayName>
+        <desc><![CDATA[Decreases the Target Number for all Training checks by 2.]]></desc>
+        <xpCost>100</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Training::Regular</skill>
+        </skillPrereq>
+        <weight>1</weight>
+    </ability>
+    <ability>
+        <lookupName>unofficial_pathologic_insight</lookupName>
+        <displayName>Pathologic Insight (Unofficial)</displayName>
+        <desc><![CDATA[Decreases the Target Number for all Surgery/Any checks made to curse diseases by 2.
+
+This has no effect if Advanced Medical's alternative mode is disabled.]]></desc>
+        <xpCost>100</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Surgery/Any::Regular</skill>
+        </skillPrereq>
+        <weight>1</weight>
+    </ability>
+    <ability>
         <lookupName>unofficial_houdini</lookupName>
         <displayName>Houdini (Unofficial)</displayName>
         <desc><![CDATA[Decreases the Target Number for all Escape Artist checks by 2.]]></desc>
@@ -597,7 +693,9 @@ If this character is the senior-most Admin/Command character, the number of cont
         <displayName>Tetris Master (Unofficial)</displayName>
         <desc><![CDATA[This character has mastered the subtle art of stacking cargo boxes.
 
-The campaign's cargo capacity is increased by 5% per character with this SPA.]]></desc>
+The campaign's cargo capacity is increased by 5% per character with this SPA.
+
+This SPA only confers a benefit if the character has either the Admin/Logistics or Admin/Transport roles.]]></desc>
         <xpCost>100</xpCost>
         <originOnly>false</originOnly>
         <weight>1</weight>
@@ -1672,11 +1770,85 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     <ability>
         <lookupName>unofficial_biological_machinist</lookupName>
         <displayName>Biological Machinist (Unofficial)</displayName>
-        <desc><![CDATA[Decreases the target number of all prosthetic surgeries by 2 (excludes cosmetic surgery). This only has an effect if Advanced Medical's alternative mode is enabled.]]></desc>
+        <desc><![CDATA[Decreases the target number of all advanced surgeries by 2 (excludes cosmetic surgery). This only has an effect if Advanced Medical's alternative mode is enabled.]]></desc>
         <xpCost>100</xpCost>
         <originOnly>false</originOnly>
         <weight>1</weight>
         <skillPrereq />
+    </ability>
+    <ability>
+        <lookupName>unofficial_holistic_care</lookupName>
+        <displayName>Expert Holistic Care (Unofficial)</displayName>
+        <desc><![CDATA[Each day this doctor has a 1-in-20 of reducing a patient's healing time by 2 days, instead of 1. The doctor rolls once per patient per injury.
+
+This only has an effect if Advanced Medical's alternative mode is enabled.]]></desc>
+        <xpCost>200</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Surgery/Any::Veteran</skill>
+        </skillPrereq>
+        <weight>1</weight>
+    </ability>
+    <ability>
+        <lookupName>unofficial_trauma_surgeon</lookupName>
+        <displayName>Trauma Surgeon (Unofficial)</displayName>
+        <desc><![CDATA[The more badly injured a patient is, the harder they are to heal. This trait decreases the injury penalty by 1.
+
+Does not affect the healing penalty incurred by permanent modifications, such as prosthetics.
+
+This only has an effect if Advanced Medical's alternative mode is enabled.]]></desc>
+        <xpCost>100</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Surgery/Any::Regular</skill>
+        </skillPrereq>
+        <weight>1</weight>
+    </ability>
+    <ability>
+        <lookupName>unofficial_useless_talent</lookupName>
+        <displayName>Useless Talent (Unofficial)</displayName>
+        <desc><![CDATA[The character has a talent. It's not very useful. Has no mechanical effect, but they like showing it off at parties.]]></desc>
+        <xpCost>100</xpCost>
+        <originOnly>false</originOnly>
+        <weight>1</weight>
+        <skillPrereq />
+    </ability>
+    <ability>
+        <lookupName>unofficial_radio_hobbyist</lookupName>
+        <displayName>Radio Hobbyist (Unofficial)</displayName>
+        <desc><![CDATA[Decreases the target number of Communications/Any checks by 2.
+
+Has limited effects if Advanced Scouting is disabled.]]></desc>
+        <xpCost>100</xpCost>
+        <originOnly>false</originOnly>
+        <weight>1</weight>
+        <skillPrereq />
+    </ability>
+    <ability>
+        <lookupName>unofficial_hypochondriac</lookupName>
+        <displayName>Hypochondriac (Unofficial)</displayName>
+        <desc><![CDATA[The more injured a character is, the harder the Surgery/Any check to heal them. This character increases their healing Target Number by 1.
+
+This only has an effect if Advanced Medical's alternative mode is enabled.]]></desc>
+        <xpCost>-100</xpCost>
+        <originOnly>false</originOnly>
+        <weight>1</weight>
+        <skillPrereq />
+    </ability>
+    <ability>
+        <lookupName>unofficial_prothesis_technician</lookupName>
+        <displayName>Experienced Prothesis Technician (Unofficial)</displayName>
+        <desc><![CDATA[The more locations that have been replaced by prosthetics, or implants, the harder a patient is to heal. This trait decreases the penalty by 1.
+
+Does not affect the healing penalty incurred by normal injuries.
+
+This only has an effect if Advanced Medical's alternative mode is enabled.]]></desc>
+        <xpCost>100</xpCost>
+        <originOnly>false</originOnly>
+        <skillPrereq>
+            <skill>Surgery/Any::Regular</skill>
+        </skillPrereq>
+        <weight>1</weight>
     </ability>
     <ability>
         <lookupName>compulsion_pathologic_racism</lookupName>
@@ -1704,6 +1876,8 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <lookupName>compulsion_addiction</lookupName>
         <displayName>Significant Compulsion - Narcotic Addiction (ATOW)</displayName>
         <desc><![CDATA[Once per week a Willpower check is made (with a -2 penalty). If failed, the character suffers the Discontinuation Syndrome Injury and gains two Fatigue (if Fatigue is enabled).
+
+This check can be skipped if the campaign is willing to subsidize the character's addiction. This can be done via the 'Flags' menu in the Personnel tab.
 
 If Advanced Medical is disabled, the character suffers a single Hit, instead of the Injury.
 
@@ -1747,7 +1921,9 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     <ability>
         <lookupName>madness_flashbacks</lookupName>
         <displayName>Minor Psychosis - Flashbacks (ATOW)</displayName>
-        <desc><![CDATA[Each week the character is required to make a Willpower check (with a -4 penalty) or suffer the 'Crippling Flashbacks' Injury (-1 Piloting, -1 Gunnery).
+        <desc><![CDATA[Each week you are required to pay a small stipend to cover medical expenses.
+
+If you are unable to pay this fee, the character is required to make a Willpower check (with a -4 penalty) or suffer the 'Crippling Flashbacks' Injury (-1 Piloting, -1 Gunnery).
 
 If Advanced Medical is disabled, the character suffers a single Hit, instead of the Injury.
 
@@ -1775,7 +1951,9 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <displayName>Minor Psychosis - Clinical Paranoia (ATOW)</displayName>
         <desc><![CDATA[Inflicts a -2 penalty to all Charisma-based skill checks.
 
-Each week the character must pass a Willpower check (with a -4 penalty) or temporarily lose all ranks in the Connections trait for the duration of the week.
+Each week you are required to pay a small stipend to cover medical expenses.
+
+If you fail to pay this fee, the character must pass a Willpower check (with a -4 penalty) or temporarily lose all ranks in the Connections trait for the duration of the week.
 
 While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <xpCost>-300</xpCost>
@@ -1786,7 +1964,11 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     <ability>
         <lookupName>madness_split_personality</lookupName>
         <displayName>Minor Psychosis - Split Personality (ATOW)</displayName>
-        <desc><![CDATA[The character gains a number of random personalities. Each week they have a chance to switch to one of their personalities.
+        <desc><![CDATA[The character gains a number of random personalities.
+
+Each week you are required to pay a small stipend to cover medical expenses.
+
+If the stipend is not paid the character has a chance to switch to one of their personalities.
 
 While the character's personality has switched, they temporarily lose all levels in the Connections Trait.
 
@@ -1799,9 +1981,11 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     <ability>
         <lookupName>madness_catatonia</lookupName>
         <displayName>Clinical Insanity - Catatonia (ATOW)</displayName>
-        <desc><![CDATA[Each week the character must pass a Willpower check (with a -10 penalty) or gain the Catatonia Injury (-20 Piloting, -20 Gunnery).
+        <desc><![CDATA[Each week you are required to pay a small stipend to cover medical expenses.
 
-If Advanced Medical is disabled the character gains a single Hit, instead of the Injury.
+If you fail to pay the stipend, the character must pass a Willpower check (with a -10 penalty) or gain the Catatonia Injury (-20 Piloting, -20 Gunnery).
+
+If Advanced Medical is disabled, the character gains a single Hit, instead of the Injury.
 
 While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <xpCost>-500</xpCost>
@@ -1812,7 +1996,9 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     <ability>
         <lookupName>madness_regression</lookupName>
         <displayName>Major Psychosis - Regression (ATOW)</displayName>
-        <desc><![CDATA[Each week the character is required to pass a Willpower check (with a -7 penalty) or gain the Childlike Regression Injury (-4 Gunnery, -4 Piloting).
+        <desc><![CDATA[Each week you are required to pay a small stipend to cover medical expenses.
+
+If the stipend isn't paid, the character is required to pass a Willpower check (with a -7 penalty) or gain the Childlike Regression Injury (-4 Gunnery, -4 Piloting).
 
 If Advanced Medical is disabled the character suffers 1 Hit, instead of the Injury.
 
@@ -1825,7 +2011,9 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     <ability>
         <lookupName>madness_hysteria</lookupName>
         <displayName>Major Psychosis - Hysteria (ATOW)</displayName>
-        <desc><![CDATA[Each week the character is required to pass a Willpower check (with a -7 penalty) or become temporarily affected by the Berserker, Confusion, or Clinical Paranoia effects.
+        <desc><![CDATA[Each week you are required to pay a small stipend to cover medical expenses.
+
+If you fail to pay the stipend, the character is required to pass a Willpower check (with a -7 penalty) or become temporarily affected by the Berserker, Confusion, or Clinical Paranoia effects.
 
 - Berserker: The character flies into a berserker frenzy inflicting 1-2 random Injuries to themselves and up to 6 bystanders. If Advanced Medical is disabled, 1-2 Hits are inflicted, instead of Injuries.
 - Confusion: The character suffers one random Injury. If Advanced Medical is disabled, the character suffers a single Hit instead of the Injury.
@@ -1840,7 +2028,9 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     <ability>
         <lookupName>madness_berserker</lookupName>
         <displayName>Clinical Insanity - Berserker (ATOW)</displayName>
-        <desc><![CDATA[Once per week the character must pass a Willpower check (with a -10 penalty) or fly into a berserker frenzy inflicting 1-2 random Injuries to themselves and up to 6 bystanders.
+        <desc><![CDATA[Each week you are required to pay a small stipend to cover medical expenses.
+
+If you fail to pay the stipend, the character must pass a Willpower check (with a -10 penalty) or fly into a berserker frenzy inflicting 1-2 random Injuries to themselves and up to 6 bystanders.
 
 If Advanced Medical is disabled 1-2 Hits are inflicted, instead of Injuries.
 

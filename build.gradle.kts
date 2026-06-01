@@ -115,6 +115,7 @@ tasks.register<Copy>("stageMMFiles") {
         include("sounds/**/*.*")
         include("sourcebooks/*.*")
         include("universe/eras.xml")
+        include("universe/ranks.xml")
         include("universe/commands/**/*.*")
         include("universe/factions/**/*.*")
     }
@@ -154,6 +155,7 @@ tasks.register<Copy>("stageMMLFiles") {
         include("universe/commands/**/*.*")
         include("universe/factions/**/*.*")
         include("universe/eras.xml")
+        include("universe/ranks.xml")
     }
 
     from(stagingFolder) {
@@ -197,6 +199,14 @@ tasks.register<Copy>("stageFiles") {
         exclude("mekfiles/*.cache")
         include("rat/**/*.*")
         include("universe/**/*.*")
+    }
+
+    // Mirror faction logos into images/force/Units so MekHQ's force-icon code
+    // can resolve them under data/images/force/ without duplicating the files
+    // in the source tree. The original images/universe/factions/ is preserved
+    // by the include("**/*.*") block above.
+    from("data/images/universe/factions") {
+        into("images/force/Units")
     }
 
     into("${stagingFolder}/all")
