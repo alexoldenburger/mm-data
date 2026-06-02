@@ -2248,7 +2248,7 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     </ability>
     <ability>
         <lookupName>edge_when_commander_negotiation_fail</lookupName>
-        <displayName>Use Edge for commander negotiation failure when generating new contracts.</displayName>
+        <displayName>Use Edge for commander contract negotiations.</displayName>
         <desc><![CDATA[Use Edge for commander negotiation failure when generating new contracts.]]></desc>
     </ability>
 
