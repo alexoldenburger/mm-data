@@ -125,7 +125,6 @@ We expect a fierce but contained battle. Your forces will be operating behind en
                 <syncedForceName>Player</syncedForceName>
                 <useArtillery>false</useArtillery>
                 <roleChoices>
-                    <forceRole>COMMAND</forceRole>
                     <forceRole>APC</forceRole>
                 </roleChoices>
             </value>
