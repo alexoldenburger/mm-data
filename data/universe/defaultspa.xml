@@ -1555,6 +1555,7 @@ Has no effect on a character without a Tech/Any (non-vessel) or Doctor professio
             <skill>Tech/Mechanic::Veteran</skill>
             <skill>Tech/Mek::Veteran</skill>
             <skill>Tech/BattleArmor::Veteran</skill>
+            <skill>Surgery/Any::Veteran</skill>
         </skillPrereq>
     </ability>
     <ability>
