@@ -1181,19 +1181,6 @@ This SPA increases that maximum by 1, but does not increase the Attribute itself
         <skillPrereq />
     </ability>
     <ability>
-        <lookupName>unofficial_beloved_pet</lookupName>
-        <displayName>Beloved Pet (Unofficial)</displayName>
-        <desc><![CDATA[This character has a beloved pet. Their companionship helps the character through hard times.
-
-Characters can only increase their Attributes up to a maximum determined by their Phenotype.
-
-This SPA increases both maximum and current Edge by 1.]]></desc>
-        <xpCost>300</xpCost>
-        <originOnly>false</originOnly>
-        <weight>1</weight>
-        <skillPrereq />
-    </ability>
-    <ability>
         <lookupName>unofficial_implant_resistance</lookupName>
         <displayName>Implant Resistance (Unofficial)</displayName>
         <desc><![CDATA[Exhibits a natural resistance to the negative effects of EI Implants, reducing the Target Number to avoid gaining an annual Flaw by 2]]></desc>
