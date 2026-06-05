@@ -1493,6 +1493,28 @@ Furthermore, the character reduces the target number of all Sensor Operations ch
         </skillPrereq>
     </ability>
     <ability>
+        <lookupName>unofficial_spice_is_right</lookupName>
+        <displayName>The Spice is Right (Unofficial)</displayName>
+        <desc><![CDATA[Knows how to make the best of every meal.
+
+Reduces the target number of all Art/Cooking checks by 2.]]></desc>
+        <xpCost>100</xpCost>
+        <originOnly>false</originOnly>
+        <invalidAbilities>unofficial_kitchen_menace</invalidAbilities>
+        <weight>1</weight>
+    </ability>
+    <ability>
+        <lookupName>unofficial_kitchen_menace</lookupName>
+        <displayName>Kitchen Menace (Unofficial)</displayName>
+        <desc><![CDATA[Has no idea how to cook even the most basic of meals.
+
+Increases the target number of all Art/Cooking checks by 2.]]></desc>
+        <xpCost>-100</xpCost>
+        <originOnly>false</originOnly>
+        <invalidAbilities>unofficial_spice_is_right</invalidAbilities>
+        <weight>1</weight>
+    </ability>
+    <ability>
         <lookupName>tech_maintainer</lookupName>
         <displayName>Maintainer (Unofficial)</displayName>
         <desc><![CDATA[The tech is slow and methodical at their work. They take a +1 penalty to their repair rolls, but are better at maintaining units than most, with a -1 bonus.]]></desc>
