@@ -2563,6 +2563,7 @@
                 <skill>Gunnery/Spacecraft::Veteran</skill>
                 <skill>Gunnery/Aerospace::Veteran</skill>
                 <skill>Gunnery/Vehicle::Veteran</skill>
+                <skill>Gunnery/BattleArmor::Veteran</skill>
             </skillPrereq>
         </ability>
         <ability>
@@ -2714,6 +2715,7 @@
             <removeAbilities></removeAbilities>
             <skillPrereq>
                 <skill>Small Arms::Regular</skill>
+                <skill>Gunnery/BattleArmor::Regular</skill>
             </skillPrereq>
         </ability>
         <ability>
