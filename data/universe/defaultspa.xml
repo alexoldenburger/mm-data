@@ -1181,6 +1181,19 @@ This SPA increases that maximum by 1, but does not increase the Attribute itself
         <skillPrereq />
     </ability>
     <ability>
+        <lookupName>unofficial_beloved_pet</lookupName>
+        <displayName>Beloved Pet (Unofficial)</displayName>
+        <desc><![CDATA[This character has a beloved pet. Their companionship helps the character through hard times.
+
+Characters can only increase their Attributes up to a maximum determined by their Phenotype.
+
+This SPA increases maximum by Edge 1, but does not increase the Attribute itself.]]></desc>
+        <xpCost>200</xpCost>
+        <originOnly>false</originOnly>
+        <weight>1</weight>
+        <skillPrereq />
+    </ability>
+    <ability>
         <lookupName>unofficial_implant_resistance</lookupName>
         <displayName>Implant Resistance (Unofficial)</displayName>
         <desc><![CDATA[Exhibits a natural resistance to the negative effects of EI Implants, reducing the Target Number to avoid gaining an annual Flaw by 2]]></desc>
@@ -2193,14 +2206,29 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <desc><![CDATA[Failed refit check will be rerolled with Edge.]]></desc>
     </ability>
     <ability>
-        <lookupName>edge_when_admin_acquire_fail</lookupName>
+        <lookupName>edge_when_admin_acquire_fail_other</lookupName>
         <displayName>Use Edge for acquisition failure.</displayName>
-        <desc><![CDATA[Failed acquisition check will be rerolled with edge.]]></desc>
+        <desc><![CDATA[Failed acquisition check will be rerolled with edge (only if the Target Number is between 0+ and 7+).]]></desc>
+    </ability>
+    <ability>
+        <lookupName>edge_when_admin_acquire_fail_greater_than_eight</lookupName>
+        <displayName>Use Edge for acquisition failure.</displayName>
+        <desc><![CDATA[Failed acquisition check will be rerolled with edge (only if the Target Number is between 8+ and 10+).]]></desc>
+    </ability>
+    <ability>
+        <lookupName>edge_when_admin_acquire_fail_greater_than_eleven</lookupName>
+        <displayName>Use Edge for acquisition failure.</displayName>
+        <desc><![CDATA[Failed acquisition check will be rerolled with edge (only if the Target Number is 11-12+).]]></desc>
     </ability>
     <ability>
         <lookupName>edge_when_salvage_accident</lookupName>
         <displayName>Use Edge for Salvage Accidents.</displayName>
         <desc><![CDATA[Salvage Accidents will be rerolled with edge.]]></desc>
+    </ability>
+    <ability>
+        <lookupName>edge_when_escape_attempt_fail</lookupName>
+        <displayName>Use Edge for escape attempt failure.</displayName>
+        <desc><![CDATA[Failed escape attempts will be rerolled with edge.]]></desc>
     </ability>
     <ability>
         <lookupName>edge_when_training_fail</lookupName>
