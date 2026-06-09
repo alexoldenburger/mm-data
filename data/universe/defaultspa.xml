@@ -2206,9 +2206,19 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <desc><![CDATA[Failed refit check will be rerolled with Edge.]]></desc>
     </ability>
     <ability>
-        <lookupName>edge_when_admin_acquire_fail</lookupName>
+        <lookupName>edge_when_admin_acquire_fail_other</lookupName>
         <displayName>Use Edge for acquisition failure.</displayName>
-        <desc><![CDATA[Failed acquisition check will be rerolled with edge.]]></desc>
+        <desc><![CDATA[Failed acquisition check will be rerolled with edge (only if the Target Number is between 0+ and 7+).]]></desc>
+    </ability>
+    <ability>
+        <lookupName>edge_when_admin_acquire_fail_greater_than_eight</lookupName>
+        <displayName>Use Edge for acquisition failure.</displayName>
+        <desc><![CDATA[Failed acquisition check will be rerolled with edge (only if the Target Number is between 8+ and 10+).]]></desc>
+    </ability>
+    <ability>
+        <lookupName>edge_when_admin_acquire_fail_greater_than_eleven</lookupName>
+        <displayName>Use Edge for acquisition failure.</displayName>
+        <desc><![CDATA[Failed acquisition check will be rerolled with edge (only if the Target Number is 11-12+).]]></desc>
     </ability>
     <ability>
         <lookupName>edge_when_salvage_accident</lookupName>
