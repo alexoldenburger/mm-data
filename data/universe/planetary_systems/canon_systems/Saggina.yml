@@ -112,12 +112,6 @@ planet:
         population: 152478.0
       - date: '3130-01-01'
         population: 173213.0
-      - date: '3130-12-31'
-        faction:
-          source: SUCS
-          version: 2026.03.02
-          value:
-            - UND
       - date: '3140-01-01'
         population: 188109.0
       - date: '3145-01-01'
