@@ -166,7 +166,7 @@ planet:
         faction:
           source: canon
           value:
-            - MCM
+            - MRep
       - date: '2250-01-01'
         population: 3802795.0
       - date: '2260-01-01'

@@ -118,7 +118,7 @@ planet:
         faction:
           source: canon
           value:
-            - MCM
+            - MRep
         population: 41900.0
         socioIndustrial: D-F-D-F-C
       - date: '2250-01-01'
