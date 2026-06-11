@@ -2213,6 +2213,11 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <desc><![CDATA[Healing check critical failure will be rerolled with Edge.]]></desc>
     </ability>
     <ability>
+        <lookupName>edge_when_advanced_surgery_fail</lookupName>
+        <displayName>Use Edge for Advanced Surgery failure.</displayName>
+        <desc><![CDATA[Advanced Surgery failure will be rerolled with Edge.]]></desc>
+    </ability>
+    <ability>
         <lookupName>edge_when_repair_break_part</lookupName>
         <displayName>Use Edge for tech breaking part.</displayName>
         <desc><![CDATA[Failed repair check that breaks the part will be rerolled with Edge.]]></desc>
