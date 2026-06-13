@@ -332,7 +332,8 @@ planet:
           source: SUCS
           version: 2026.03.02
           value:
-            - DIS
+            - CJF
+            - LA
       - date: '3079-08-20'
         faction:
           source: canon
@@ -361,7 +362,8 @@ planet:
           source: SUCS
           version: 2026.03.02
           value:
-            - DIS
+            - CJF
+            - LA
       - date: '3140-01-01'
         population: 178088330.0
       - date: '3145-05-01'

@@ -150,7 +150,8 @@ planet:
           source: SUCS
           version: 2026.03.02
           value:
-            - DIS
+            - FS
+            - TGU
       - date: '2320-01-01'
         population: 12765482.0
       - date: '2330-01-01'

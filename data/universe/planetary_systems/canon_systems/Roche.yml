@@ -226,7 +226,8 @@ planet:
           source: SUCS
           version: 2026.03.02
           value:
-            - DIS
+            - CCC
+            - CGS
       - date: '3080-01-01'
         population: 8033671.0
       - date: '3081-12-31'
