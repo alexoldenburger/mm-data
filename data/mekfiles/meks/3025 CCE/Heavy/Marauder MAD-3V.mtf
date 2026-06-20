@@ -26,6 +26,9 @@ source:TR:3025C
 rules level:1
 role:Brawler
 
+quirk:command_mech
+quirk:hyper_actuator
+quirk:low_profile
 
 mass:75
 engine:225 Fusion Engine
