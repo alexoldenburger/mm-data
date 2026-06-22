@@ -2264,18 +2264,18 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     </ability>
     <ability>
         <lookupName>edge_when_admin_acquire_fail_other</lookupName>
-        <displayName>Use Edge for acquisition failure.</displayName>
-        <desc><![CDATA[Failed acquisition check will be rerolled with edge (only if the Target Number is between 0+ and 7+).]]></desc>
+        <displayName>Use Edge for Acquisition Failure (TN 2–7).</displayName>
+        <desc><![CDATA[Failed acquisition check will be rerolled with edge (only if the Target Number is between 2 and 7).]]></desc>
     </ability>
     <ability>
         <lookupName>edge_when_admin_acquire_fail_greater_than_eight</lookupName>
-        <displayName>Use Edge for acquisition failure.</displayName>
-        <desc><![CDATA[Failed acquisition check will be rerolled with edge (only if the Target Number is between 8+ and 10+).]]></desc>
+        <displayName>Use Edge for Acquisition Failure (TN 8–10).</displayName>
+        <desc><![CDATA[Failed acquisition check will be rerolled with edge (only if the Target Number is between 8 and 10).]]></desc>
     </ability>
     <ability>
         <lookupName>edge_when_admin_acquire_fail_greater_than_eleven</lookupName>
-        <displayName>Use Edge for acquisition failure.</displayName>
-        <desc><![CDATA[Failed acquisition check will be rerolled with edge (only if the Target Number is 11-12+).]]></desc>
+        <displayName>Use Edge for Acquisition Failure (TN 11–12).</displayName>
+        <desc><![CDATA[Failed acquisition check will be rerolled with edge (only if the Target Number is 11 or 12).]]></desc>
     </ability>
     <ability>
         <lookupName>edge_when_salvage_accident</lookupName>
@@ -2284,17 +2284,17 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     </ability>
     <ability>
         <lookupName>edge_when_escape_attempt_fail</lookupName>
-        <displayName>Use Edge for escape attempt failure.</displayName>
+        <displayName>Use Edge for Escape Attempt Failure.</displayName>
         <desc><![CDATA[Failed escape attempts will be rerolled with edge.]]></desc>
     </ability>
     <ability>
         <lookupName>edge_when_admin_fail_appraisal</lookupName>
-        <displayName>Use Edge for procurement cost appraisal failure.</displayName>
+        <displayName>Use Edge for Procurement Cost Appraisal Failure.</displayName>
         <desc><![CDATA[Failed appraisal checks made to reduce procurement costs will be rerolled with edge.]]></desc>
     </ability>
     <ability>
         <lookupName>edge_when_commander_negotiation_fail</lookupName>
-        <displayName>Use Edge for commander contract negotiations.</displayName>
+        <displayName>Use Edge for Commander Contract Negotiations.</displayName>
         <desc><![CDATA[Use Edge for commander negotiation failure when generating new contracts.]]></desc>
     </ability>
     <ability>
@@ -2304,7 +2304,7 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     </ability>
     <ability>
         <lookupName>edge_when_training_fail</lookupName>
-        <displayName>Use Edge for training operation failure.</displayName>
+        <displayName>Use Edge for Training Operation Failure.</displayName>
         <desc><![CDATA[Failed training checks made during training operations will be rerolled with edge.]]></desc>
     </ability>
 
